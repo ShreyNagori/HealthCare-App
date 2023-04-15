@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220960846418",
+    "project_id": "bodybude-bab59",
+    "storage_bucket": "bodybude-bab59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220960846418:android:2579ddebf8bf3cb916658b",
+        "android_client_info": {
+          "package_name": "com.example.finalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220960846418-g51jbrql4tfcibc9in234jlhe4qfstdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeGCU2E3Ou4Wam4aSnsUoCtU7yhohDryE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220960846418-g51jbrql4tfcibc9in234jlhe4qfstdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
