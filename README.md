@@ -1,16 +1,36 @@
-# finalapp
+Vital Tracker App
+This is a Flutter based mobile application that tracks vital signs like heart rate, oxygen saturation (spo2), and body temperature of an individual. The app provides a login page with authentication done using Firebase.
 
-A new Flutter project.
+Installation
+To install the app, follow these steps:
 
-## Getting Started
+Clone the repository from Github:
+git clone https://github.com/<username>/vital-tracker.git
 
-This project is a starting point for a Flutter application.
+Navigate to the project directory:
+cd vital-tracker
 
-A few resources to get you started if this is your first Flutter project:
+Install the required packages:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Run the app:
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Usage
+To use the app, follow these steps:
+
+Launch the app.
+Enter your login credentials on the login page. If you don't have an account, you can create one by clicking the "Create Account" button.
+Once you're logged in, you'll be taken to the main screen, where you can enter and track your vital signs.
+To view the line chart representation of your vital signs, click the "View Chart" button.
+To log out of the app, click the "Log Out" button.
+
+Technologies Used
+Flutter
+Firebase
+
+Credits
+This app was developed by Shrey Nagori as a Personal Project.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
