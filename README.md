@@ -1,4 +1,5 @@
-Vital Tracker App
+**VITAL TRACKER APP**
+
 This is a Flutter based mobile application that tracks vital signs like heart rate, oxygen saturation (spo2), and body temperature of an individual. The app provides a login page with authentication done using Firebase.
 
 Installation
